@@ -1,2 +1,5 @@
 # venv
 fastapi_venv
+
+# docs
+*.md
